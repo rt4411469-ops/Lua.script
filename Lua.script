@@ -1,0 +1,5 @@
+print("Hello Rishi!")
+
+local name = "Rishi"
+
+print("Welcome " .. name)
